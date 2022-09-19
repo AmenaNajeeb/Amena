@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary>Want to know more? Click Here</summary>
 <br>
 This is called a DropDown.
